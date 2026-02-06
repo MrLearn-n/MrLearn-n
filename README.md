@@ -1,16 +1,20 @@
 # :headphones: mrlearn
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="120" />
+  <img src="./assets/mrlearn:11.jpeg" width="420" />
 </p>
 
-**Full-Stack Engineer (Frontend / Backend)**
+<table>
+  <tr>
+    <td><strong>Full-Stack Engineer (Frontend / Backend)</strong></td>
+  </tr>
+</table>
 
 I’m a full-stack developer focused on building scalable and reliable web applications. I work across the entire development lifecycle — from system design and architecture to implementation, optimization, and production support.
 
 ---
 
-### :guitar: Skills
+## :guitar: Skills
 
 #### OS
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
